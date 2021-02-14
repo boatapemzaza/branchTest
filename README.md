@@ -11,6 +11,4 @@ tag br to and bottom
 <b>tag b</b>
 <i>tag i</i>
 <b><i>tag b and i</i></b>
-| ใช้ต่อบรรทัด
->> dd
-sd
+sds
