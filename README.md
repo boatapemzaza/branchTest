@@ -12,3 +12,6 @@ tag br to and bottom
 <i>tag i</i>
 <b><i>tag b and i</i></b>
 + content
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
