@@ -24,8 +24,8 @@ Ordered
    1. Item 3a
    1. Item 3b
 Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://pbs.twimg.com/profile_images/976412995067629569/0qK26CpF_400x400.jpg)
+Format: ![Alt Text](https://i.ytimg.com/vi/NvtEBc2cYxM/hqdefault.jpg)
 Links
 http://github.com - automatic!
 [GitHub](http://github.com)
