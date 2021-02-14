@@ -1,11 +1,14 @@
 # branchTest
-<h1>#h1 testH1</h1>
-<h2>##h2 testH2</h2>
-<h2>###h3 testH3</h2>
-<h2>####h4 testH4</h2>
-<h2>#####h5 testH5</h2>
-<h2>######h6 testH6</h2>
+<h1>tag h1</h1>
+<h2>tag h2</h2>
+<h2>tag h3</h2>
+<h2>tag h4</h2>
+<h2>tag h5</h2>
+<h2>tag h6</h2>
 <br>
-2 spacebar enter 2 space test 
+tag br to and bottom
 <br>
-**content**
+<b>tag b</b>
+<i>tag i</i>
+<b><i>tag b and i</i></b>
+| content
