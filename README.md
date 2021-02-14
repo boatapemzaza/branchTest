@@ -1,17 +1,39 @@
-# branchTest
-<h1>tag h1</h1>
-<h2>tag h2</h2>
-<h2>tag h3</h2>
-<h2>tag h4</h2>
-<h2>tag h5</h2>
-<h2>tag h6</h2>
-<br>
-tag br to and bottom
-<br>
-<b>tag b</b>
-<i>tag i</i>
-<b><i>tag b and i</i></b>
-+ content
+Headers
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+  
+Emphasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+Lists
+Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+Inline code
+I think you should use an
+`<addr>` element here instead.
